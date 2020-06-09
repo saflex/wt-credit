@@ -3,6 +3,11 @@
     width: 100% !important;
 }
 
+.bootstrap-select.btn-group .dropdown-menu.inner{
+    overflow: hidden;
+}
+
+
 .contr-area .flr {
     width: 100% !important;
     margin-top: -43px;

@@ -127,8 +127,8 @@ if(screen.width<=400){
 
 });
   
-  
-   
+
+
  	if($(window).width() > 768) {
 
 
@@ -143,11 +143,7 @@ $(".scroller-bl").mCustomScrollbar({
     // change functionality for larger screens
 }
 	
-  
-  
-  /**
- * Vertically center Bootstrap 3 modals so they aren't always stuck at the top
- */
+
 $(function() {
     function reposition() {
         var modal = $(this),
